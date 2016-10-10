@@ -1,4 +1,4 @@
 test = ->
-  console.log "Hello coffee"
+  console.log "Hello coffee, yeah"
 
 test()
